@@ -36,9 +36,9 @@ header {
 .aside{
     background: #a3a3a3;
     text-align: center;
-    position: absolute;
+    
     width: 20%;
-    height: 110%;
+    height: 100%;
 }
 h2{
     margin: 0;
