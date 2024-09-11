@@ -22,11 +22,20 @@ header {
     box-sizing: border-box;
 }
 
+.grupoListas{
+    display: flex;
+    list-style: none;
+    padding: 0%;
+}
+
+.listaH{
+    width: 33.3%;
+}
+
 .menu{
-    width: 33%;
-    float: left;
     color: #fff;
     text-decoration: none;
+    
 }
 
 .contenido{
@@ -43,6 +52,7 @@ header {
     height: 100%;
     position: absolute;
 }
+
 h2{
     margin: 0;
     
@@ -89,6 +99,18 @@ footer {
 
 .divfooter{
     margin: 0 5%;
+    width: 33.3%;
+}
+
+.ulFoot{
+    list-style: none;
+}
+
+.listaF{
+    display: flex;
+}
+.formFooter{
+    margin: 1%;
 }
 
 .foot{
